@@ -15,7 +15,7 @@
 </ul>
 - - - - - - - - - - - - - - - - - - -  
 <br>
-🖼️ Picture <br><br>
+🖼️ Picture: <br><br>
 <img src="Pic/Pictue-calc-(2).png">
 - - - - - - - - - - - - - - - - - - - 
 <h3 align="left">Connect with me:</h3>
